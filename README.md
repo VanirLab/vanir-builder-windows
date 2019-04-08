@@ -36,7 +36,7 @@ Automated environment setup
 
 If you're starting in a clean OS without Vanir Builder, the get-be powershell script initializes the build environment. Download it from here:
 
-https://raw.githubusercontent.com/VOS/vanir-builder-windows/master/scripts/get-be.ps1
+https://raw.githubusercontent.com/VanirLab/vanir-builder-windows/master/scripts/prepare-be.ps1
 
 ...and run:
 `powershell -ExecutionPolicy bypass -f get-be.ps1`
