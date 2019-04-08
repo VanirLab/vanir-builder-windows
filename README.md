@@ -27,7 +27,7 @@ dummy3-win-path
 /c/windows/py
 ```
 
-Then proceed with standard way of obtaining vanir builder: https://www.vos.org/doc/vanir-builder
+Then proceed with standard way of obtaining vanir builder: no docu
 
 Automated environment setup
 ---------------------------
