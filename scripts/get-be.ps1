@@ -7,7 +7,7 @@
 
 Param(
     $builder,               # [optional] If specified, path to existing vanir-builder.
-    $GIT_SUBDIR = "vanir-labs"     # [optional] Same as in builder.conf
+    $GIT_SUBDIR = "VanirLab"     # [optional] Same as in builder.conf
 )
 
 $verify = $true
